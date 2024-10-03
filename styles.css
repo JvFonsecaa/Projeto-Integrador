@@ -388,6 +388,16 @@ footer {
 }
 
 /* ================CARROSSEL DOS PATROCINADORES==================== */
+ .patrocinadoresBarra{
+    background-color: rgb(4, 4, 111);
+    color: rgb(236, 191, 40);
+    box-shadow: rgba(0, 0, 0, 0.349) 10px 10px 10px;
+    padding: 10px;
+    margin: 90px 10px 10px;
+    text-align: center;
+    border-radius: 5px;
+  }
+
 .carousel-container {
   width: 50%;
   max-width: 1300px;
